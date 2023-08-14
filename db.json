@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 200
+    },
+    {
+      "name": "Sản phẩm D",
+      "price": "400",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "phamduy@gmail.com",
+      "password": "$2a$10$p6LpCGekFG8.3vSIjYHLkeNMaXpl/COfnqnZXAELm3iC67pS4rWlO",
+      "name": "Phạm Văn Duy",
+      "confirmPassword": "vanduy2003",
+      "id": 1
+    },
+    {
+      "email": "phammy@gmail.com",
+      "password": "$2a$10$cEDoRdsJHuorYI2sPMKEwuXa/iuv2yLZySold0386AQ0h4KiWYB6i",
+      "name": "Pham My",
+      "confirmPassword": "vanduy2003",
+      "id": 2
+    },
+    {
+      "email": "duy@gmail.com",
+      "password": "$2a$10$VLtLjjhtg8t26jZrq6iYwuy79yxqczpxS2Kbisg4rnIgjNbOvJ3kq",
+      "name": "Duy",
+      "confirmPassword": "vanduy2003",
+      "id": 3
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$MBgNgj6XYShhaJhjF.FlTukBYrhTCEJLNYeJYKsxEqZS/L0bB7RiO",
+      "name": "Admin",
+      "confirmPassword": "vanduy2003",
+      "id": 4
+    }
+  ]
+}
